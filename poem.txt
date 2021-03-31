@@ -7,6 +7,7 @@ Blue
 Green
 Unicorn
 Yellow
+White
 Red
 Black
 These are the colors of the rainbow.
